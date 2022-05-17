@@ -5,9 +5,9 @@
 </template>
 
 <style lang="scss">
-$highlight: #f41b8e;
-$highlightmuted: #f41b8ed9;
-$background: #2b3143;
+$highlight: #002b5c;
+$highlightmuted: #002b5c;
+$background: #ffffff;
 
 html {
   font-family: 'Lato', sans-serif;
@@ -136,7 +136,7 @@ html {
   }
   &.details {
     background: $background;
-    color: white;
+    color: #002b5c;
     align-items: flex-start;
     text-align: left;
     padding: 40px;
@@ -173,6 +173,7 @@ html {
       display: flex;
       span {
         background: $highlightmuted;
+        color: white;
         padding: 3px 7px;
         font-size: 16px;
         margin-left: 15px;
@@ -212,6 +213,7 @@ ul {
 }
 .highlight {
   background: $highlight;
+  color: white;
   padding: 3px 7px;
   font-size: 16px;
   margin-left: 15px;
@@ -228,7 +230,7 @@ ul {
 }
 .name {
   font-size: 40px;
-  color: #fff;
+  color: #002b5c;
   font-weight: 300;
 }
 .title {
@@ -239,7 +241,7 @@ ul {
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
-  color: #fff;
+  color: #002b5c;
   @media screen and (max-width: 800px) {
     font-size: 40px;
     margin: 30px 0;
