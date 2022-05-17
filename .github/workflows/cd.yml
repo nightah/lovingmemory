@@ -25,9 +25,6 @@ jobs:
       - name: Install dependencies
         run: yarn
 
-      - name: Fix images
-        run: node index.js
-
       - name: Generate
         run: yarn run generate
 
