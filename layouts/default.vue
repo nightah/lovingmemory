@@ -119,7 +119,7 @@ html {
   }
 
   &.tribute {
-    background: $background;
+    background: #002b5c;
     justify-content: space-evenly;
     overflow: auto;
     height: 100vh;
@@ -230,7 +230,7 @@ ul {
 }
 .name {
   font-size: 40px;
-  color: #002b5c;
+  color: #ffffff;
   font-weight: 300;
 }
 .title {
@@ -241,7 +241,7 @@ ul {
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
-  color: #002b5c;
+  color: #ffffff;
   @media screen and (max-width: 800px) {
     font-size: 40px;
     margin: 30px 0;
