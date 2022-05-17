@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1652784470",layout:"default",error:a,serverRendered:true,routePath:b,config:{name:"Gaurav Malhotra",dates:"17th April 1987 - 14th May 2022",_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null,"\u002F"));
