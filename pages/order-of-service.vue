@@ -5,35 +5,20 @@
     </div>
     <div class="section details">
       <h1 class="title">Order of service</h1>
-      <p><em>Tuesday 17th May 2022:</em> We are currently in the process of securing a location to hold a service to celebrate Chiky's life.</p>
-      <p class="highlight">This page will be updated with details as they become available.</p>
-      <h2>Crematorium <span>12:00pm</span></h2>
+      <a class="button" target="_blank" rel=”noopener” href="https://chikysmemorialservice.rsvpify.com">RSVP for Memorial service</a>
+      <h2>Cremation<span>Tuesday 24th May 2022</span></h2>
       <ul class="fa-ul">
-        <ListItem>Crematorium attendance is for immediate family only</ListItem>
-        <ListItem>Service starts at 12pm at Crematorium address</ListItem>
-        <ListItem>Entrance music: And Can It Be</ListItem>
-        <ListItem>Scripture reading - Psalm 61 v1-4</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Tribute</ListItem>
-        <ListItem>Few moments of quiet</ListItem>
-        <ListItem>Short message</ListItem>
-        <ListItem>Committal</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-        <ListItem>Exit music: New Wine</ListItem>
+        <ListItem>Closed ceremony, immediate family only</ListItem>
       </ul>
-      <h2>Service <span>10:30am</span></h2>
+      <h2>Hindu prayer<span>Friday 27th May 2022 11:00am (Time TBC)</span></h2>
       <ul class="fa-ul">
-        <ListItem>Service starts at 10:30am at Address</ListItem>
-        <ListItem>Entrance music: And Can It Be</ListItem>
-        <ListItem>Scripture reading</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Song: Goodness of God</ListItem>
-        <ListItem>Tributes - Family &amp; Friends</ListItem>
-        <ListItem>Few moments of quiet</ListItem>
-        <ListItem>Short message</ListItem>
-        <ListItem>Prayer of Commendation</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-        <ListItem>Exit music: New Wine</ListItem>
+        <ListItem>Immediate family only</ListItem>
+      </ul>
+      <h2>Memorial service<span>Friday 27th May 2022 3:00pm</span></h2>
+      <ul class="fa-ul">
+        <ListItem>Open to all, please RSVP</ListItem>
+        <ListItem>To be held at Studley Grounds</ListItem>
+        <ListItem>Address: 121 Studley Grounds Road, Kew 3101 VIC</ListItem>
       </ul>
     </div>
   </div>

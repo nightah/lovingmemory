@@ -1,4 +1,4 @@
-const name = 'Gaurav Malhotra'
+const name = 'Gaurav \'Chiky\' Malhotra'
 const dates = '17th April 1987 - 14th May 2022'
 
 export default {
