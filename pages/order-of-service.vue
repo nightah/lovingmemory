@@ -19,6 +19,7 @@
         <ListItem>Open to all, please RSVP</ListItem>
         <ListItem>To be held at Studley Grounds</ListItem>
         <ListItem>Address: 121 Studley Grounds Road, Kew 3101 VIC</ListItem>
+        <ListItem>Refreshment and drinks to follow memorial service</ListItem>
       </ul>
     </div>
   </div>
