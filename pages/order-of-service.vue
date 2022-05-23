@@ -10,7 +10,7 @@
       <ul class="fa-ul">
         <ListItem>Closed ceremony, immediate family only</ListItem>
       </ul>
-      <h2>Hindu prayer<span>Friday 27th May 2022 11:00am (Time TBC)</span></h2>
+      <h2>Hindu prayer<span>Friday 27th May 2022 12:00pm</span></h2>
       <ul class="fa-ul">
         <ListItem>Immediate family only</ListItem>
       </ul>
