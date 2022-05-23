@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1653310227",layout:"default",error:a,serverRendered:true,routePath:"\u002Flive-stream",config:{name:"Gaurav 'Chiky' Malhotra",dates:"17th April 1987 - 14th May 2022",_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null));
